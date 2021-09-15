@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/RichardKnight88/richard-knight-portfolio/static/css/main.cc5f9a73.chunk.css",
+    "main.js": "/RichardKnight88/richard-knight-portfolio/static/js/main.708d8912.chunk.js",
+    "main.js.map": "/RichardKnight88/richard-knight-portfolio/static/js/main.708d8912.chunk.js.map",
+    "runtime-main.js": "/RichardKnight88/richard-knight-portfolio/static/js/runtime-main.374969e9.js",
+    "runtime-main.js.map": "/RichardKnight88/richard-knight-portfolio/static/js/runtime-main.374969e9.js.map",
+    "static/css/2.e007dfde.chunk.css": "/RichardKnight88/richard-knight-portfolio/static/css/2.e007dfde.chunk.css",
+    "static/js/2.9a037c54.chunk.js": "/RichardKnight88/richard-knight-portfolio/static/js/2.9a037c54.chunk.js",
+    "static/js/2.9a037c54.chunk.js.map": "/RichardKnight88/richard-knight-portfolio/static/js/2.9a037c54.chunk.js.map",
+    "index.html": "/RichardKnight88/richard-knight-portfolio/index.html",
+    "static/css/2.e007dfde.chunk.css.map": "/RichardKnight88/richard-knight-portfolio/static/css/2.e007dfde.chunk.css.map",
+    "static/css/main.cc5f9a73.chunk.css.map": "/RichardKnight88/richard-knight-portfolio/static/css/main.cc5f9a73.chunk.css.map",
+    "static/js/2.9a037c54.chunk.js.LICENSE.txt": "/RichardKnight88/richard-knight-portfolio/static/js/2.9a037c54.chunk.js.LICENSE.txt",
+    "static/media/bee.2e971aae.png": "/RichardKnight88/richard-knight-portfolio/static/media/bee.2e971aae.png",
+    "static/media/buhjit.2145ef6b.png": "/RichardKnight88/richard-knight-portfolio/static/media/buhjit.2145ef6b.png",
+    "static/media/devicon.min.css": "/RichardKnight88/richard-knight-portfolio/static/media/devicon.faa6b335.woff",
+    "static/media/eclipse-logo.a4e8362e.png": "/RichardKnight88/richard-knight-portfolio/static/media/eclipse-logo.a4e8362e.png",
+    "static/media/general-assembly-logo.6e9efafd.png": "/RichardKnight88/richard-knight-portfolio/static/media/general-assembly-logo.6e9efafd.png",
+    "static/media/gods.87a1da8e.png": "/RichardKnight88/richard-knight-portfolio/static/media/gods.87a1da8e.png",
+    "static/media/headshot.b4fa0ea2.jpg": "/RichardKnight88/richard-knight-portfolio/static/media/headshot.b4fa0ea2.jpg",
+    "static/media/rk.11e19e12.svg": "/RichardKnight88/richard-knight-portfolio/static/media/rk.11e19e12.svg",
+    "static/media/strathy-logo.6241e7ab.png": "/RichardKnight88/richard-knight-portfolio/static/media/strathy-logo.6241e7ab.png",
+    "static/media/tfl-logo.5b8e8d78.png": "/RichardKnight88/richard-knight-portfolio/static/media/tfl-logo.5b8e8d78.png",
+    "static/media/weather2.e0086423.gif": "/RichardKnight88/richard-knight-portfolio/static/media/weather2.e0086423.gif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.374969e9.js",
+    "static/css/2.e007dfde.chunk.css",
+    "static/js/2.9a037c54.chunk.js",
+    "static/css/main.cc5f9a73.chunk.css",
+    "static/js/main.708d8912.chunk.js"
+  ]
+}
