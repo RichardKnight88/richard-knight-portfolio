@@ -1,6 +1,6 @@
 {
   "homepage": "https://github.com/RichardKnight88/richard-knight-portfolio",
-  "name": "client",
+  "name": "richard-knight-portfolio",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
