@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "devicon": "^2.14.0",
+    "react-bootstrap": "^1.6.3"
+  }
+}
