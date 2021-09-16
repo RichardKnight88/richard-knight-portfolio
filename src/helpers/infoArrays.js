@@ -34,7 +34,7 @@ export const projects = [
   {
     key: 'gods',
     name: 'Trust Pistis',
-    description: 'Full-stack MERN app with CRUD functionality.Based on the TrustPilot website with a theme of Greek Gods. Co-built the backend with some later schema and request functionality added individually. Coded and styled the home and profile pages while giving support and guidance to colleagues with the coding of other components in the app.',
+    description: 'Full-stack MERN app with CRUD functionality. Based on the TrustPilot website with a theme of Greek Gods. Co-built the backend with some later schema and request functionality added individually. Coded and styled the home and profile pages while giving support and guidance to colleagues with the coding of other components in the app.',
     repo: 'https://bit.ly/read-melete',
     deployed: 'https://bit.ly/trust-pistis',
     image: gods,

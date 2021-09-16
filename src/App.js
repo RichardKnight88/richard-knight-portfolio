@@ -73,7 +73,7 @@ const App = () => {
             >
               <h3>[ about ]</h3>
               <h4>
-                I'm a product design engineer turned software developer. I have an inquisitive nature and a passion for aesthetics, however, the most transformative product design ideas are no longer physical. After four years in industry, I pivoted into Software Engineering. I am always trying to learn new things and find great satisfaction in creating and problem solving.
+                I'm a product design engineer turned software developer. I have an inquisitive nature and a passion for aesthetics. The most transformative product design ideas are no longer physical. After four years in industry, I pivoted into Software Engineering. I am always trying to learn new things and find great satisfaction in creating and problem solving.
                 <br></br>
                 <br></br>
                 I am always interested in trying new hobbies but mainstays are football (soccer), hot yoga, music and reading. My love of music spans multiple genres and I have the 'Liked Songs' playlist on Spotify to prove it. I am always keen to hear new recommendations! As a former professional drummer I have played all over the UK in various bands - there's nothing quite like live music.
