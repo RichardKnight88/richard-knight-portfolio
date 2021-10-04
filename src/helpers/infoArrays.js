@@ -1,5 +1,5 @@
 import bee from '../assets/projects/bee.png'
-import weather from '../assets/projects/weather2.gif'
+import weather from '../assets/projects/weather.gif'
 import gods from '../assets/projects/gods.png'
 import buhjit from '../assets/projects/buhjit.png'
 import ga from '../assets/companies/general-assembly-logo.png'
@@ -10,7 +10,7 @@ import strathy from '../assets/companies/strathy-logo.png'
 
 export const sectionHeadings = ['About', 'Technologies', 'Projects', 'Experience']
 
-export const technologies = ['JavaScript', 'HTML5', 'CSS3', 'React', 'Node.js', 'MongoDB', 'Express', 'Django', 'PostgreSQL', 'Python', 'Git', 'Github', 'Sass', 'Bootstrap', 'Bulma', 'Heroku', 'Yarn', 'npm']
+export const technologies = ['JavaScript', 'HTML5', 'CSS3', 'React', 'Node.js', 'Jest', 'MongoDB', 'Express', 'Django', 'PostgreSQL', 'Python', 'Git', 'Github', 'Sass', 'Bootstrap', 'Bulma', 'Heroku', 'Yarn', 'npm']
 
 export const otherTechnologies = ['Illustrator', 'Photoshop', 'Xd', 'Slack', 'Figma', 'Trello']
 
